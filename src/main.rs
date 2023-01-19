@@ -1,5 +1,3 @@
-// src/main.rs
-
 #![no_std] // don't link the Rust standard library
 #![no_main] // disable all Rust-level entry points
 
